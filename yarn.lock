@@ -2027,18 +2027,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@uiw/react-textarea-code-editor@npm:^2.0.4":
-  version: 2.1.1
-  resolution: "@uiw/react-textarea-code-editor@npm:2.1.1"
+"@uiw/react-textarea-code-editor@npm:^2.1.9":
+  version: 2.1.9
+  resolution: "@uiw/react-textarea-code-editor@npm:2.1.9"
   dependencies:
     "@babel/runtime": ^7.18.6
     rehype: ~12.0.1
-    rehype-prism-plus: 1.5.0
+    rehype-prism-plus: 1.6.3
   peerDependencies:
     "@babel/runtime": ">=7.10.0"
     react: ">=16.9.0"
     react-dom: ">=16.9.0"
-  checksum: daf731993b15f48b5c3a1dc5f543344bf5c687ce165b5c05cba03b9d83865d9f746c02722be4266ee0c3961b1635e7a186bc42f313032bfa2fc1f7083d27c034
+  checksum: 06d4a81fc162a9ec3ebecdafe0074a19a23ec9f7f7a5324fd90fad568a5111c46c3eb6a06f06413670c7822e5593c50baea6c55899a129108f3099f149222e61
   languageName: node
   linkType: hard
 
@@ -5249,7 +5249,7 @@ __metadata:
 
 "fsevents@patch:fsevents@^2.1.2#~builtin<compat/fsevents>, fsevents@patch:fsevents@~2.3.2#~builtin<compat/fsevents>":
   version: 2.3.2
-  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=df0bf1"
+  resolution: "fsevents@patch:fsevents@npm%3A2.3.2#~builtin<compat/fsevents>::version=2.3.2&hash=18f3a7"
   dependencies:
     node-gyp: latest
   conditions: os=darwin
@@ -7725,7 +7725,7 @@ __metadata:
     "@tailwindcss/forms": ^0.5.3
     "@tailwindcss/line-clamp": ^0.4.2
     "@tanstack/react-table": ^8.5.28
-    "@uiw/react-textarea-code-editor": ^2.0.4
+    "@uiw/react-textarea-code-editor": ^2.1.9
     autoprefixer: ^10.4.12
     aws-sdk: ^2.1539.0
     aws4fetch: ^1.0.16
@@ -9522,15 +9522,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"refractor@npm:^4.7.0":
-  version: 4.8.0
-  resolution: "refractor@npm:4.8.0"
+"refractor@npm:^4.8.0":
+  version: 4.8.1
+  resolution: "refractor@npm:4.8.1"
   dependencies:
     "@types/hast": ^2.0.0
     "@types/prismjs": ^1.0.0
     hastscript: ^7.0.0
     parse-entities: ^4.0.0
-  checksum: 57cda9deb62dc115c0c41c1d0f15547f5e8c0b57969da737a1a5ec440a3aae14a6c9b92c31748b3c17ab0038814695356a08c3bf6833b7e46a0f47a14eb3d9d6
+  checksum: 51762ed1d62523e3fb4b1ccec3f846965d497b7828e43d1668b2839dcbbe6b0d4edfd9113ad6e3679e5a6b6fb2f6983883123d762a7e46e3b5a8cd480a0a1930
   languageName: node
   linkType: hard
 
@@ -9581,17 +9581,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rehype-prism-plus@npm:1.5.0":
-  version: 1.5.0
-  resolution: "rehype-prism-plus@npm:1.5.0"
+"rehype-prism-plus@npm:1.6.3":
+  version: 1.6.3
+  resolution: "rehype-prism-plus@npm:1.6.3"
   dependencies:
     hast-util-to-string: ^2.0.0
     parse-numeric-range: ^1.3.0
-    refractor: ^4.7.0
+    refractor: ^4.8.0
     rehype-parse: ^8.0.2
     unist-util-filter: ^4.0.0
     unist-util-visit: ^4.0.0
-  checksum: b1b0af56c1cc2ae6091fda4989f2b8554fb58aff576a3a7566a39e40d5a2e735f13a0dceef0c7942b27b06b3a0061658908d705ae5174fc09d94a3bfe1a2964e
+  checksum: 418b31bce05131b86cb759a4789e1842e576f7f0642c8ed8ed43f42785271dd15997c7c4d34778586f656b66a7e09bda405019db006c1f552a284beda685adca
   languageName: node
   linkType: hard
 
@@ -9784,14 +9784,14 @@ __metadata:
 
 "resolve@patch:resolve@1.1.7#~builtin<compat/resolve>":
   version: 1.1.7
-  resolution: "resolve@patch:resolve@npm%3A1.1.7#~builtin<compat/resolve>::version=1.1.7&hash=3bafbf"
+  resolution: "resolve@patch:resolve@npm%3A1.1.7#~builtin<compat/resolve>::version=1.1.7&hash=07638b"
   checksum: e9dbca78600ae56835c43a09f1276876c883e4b4bbd43e2683fa140671519d2bdebeb1c1576ca87c8c508ae2987b3ec481645ac5d3054b0f23254cfc1ce49942
   languageName: node
   linkType: hard
 
 "resolve@patch:resolve@^1.1.7#~builtin<compat/resolve>, resolve@patch:resolve@^1.10.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.17.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.19.0#~builtin<compat/resolve>, resolve@patch:resolve@^1.22.1#~builtin<compat/resolve>, resolve@patch:resolve@^1.9.0#~builtin<compat/resolve>":
   version: 1.22.1
-  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A1.22.1#~builtin<compat/resolve>::version=1.22.1&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
@@ -9804,7 +9804,7 @@ __metadata:
 
 "resolve@patch:resolve@^2.0.0-next.4#~builtin<compat/resolve>":
   version: 2.0.0-next.4
-  resolution: "resolve@patch:resolve@npm%3A2.0.0-next.4#~builtin<compat/resolve>::version=2.0.0-next.4&hash=c3c19d"
+  resolution: "resolve@patch:resolve@npm%3A2.0.0-next.4#~builtin<compat/resolve>::version=2.0.0-next.4&hash=07638b"
   dependencies:
     is-core-module: ^2.9.0
     path-parse: ^1.0.7
